@@ -7,7 +7,7 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.Calendar;
 
-public class MainActivity extends AppCompatActivity {
+public class    MainActivity extends AppCompatActivity {
 
     ListView lvToDo;
     ArrayList<ToDoItem> alToDoList;
